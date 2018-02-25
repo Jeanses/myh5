@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊~我终于有自己的域名啦！哈哈哈....
 
 You can use the [editor on GitHub](https://github.com/Jeanses/myh5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
